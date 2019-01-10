@@ -1,0 +1,6 @@
+#DB config
+spring:
+   url: jdbc:mysql://192.168.88.3:3306/life_master
+   username: root
+   password: p@ssw0rd
+   driver-class-name: com.mysql.cj.jdbc.Driver
